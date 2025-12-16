@@ -1,22 +1,18 @@
 {
-    "title": "Github: Limited Codespace Sessions",
-    "slug": "github-limited-codespace-sessions",
-    "description": "A description of the limit to the number of Codespaces that can be open concurrently and how to manage Codespace sessions.",
+    "title": "Github: Managing Codespaces",
+    "slug": "github-managing-codespaces",
+    "description": "A description of how to view owned codespaces and how to manage them when the limit is reached.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "github"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "github-codespaces"
     ],
     "related": [
-        "",
-        ""
+        "github-opening-codespaces"
     ]
 }
