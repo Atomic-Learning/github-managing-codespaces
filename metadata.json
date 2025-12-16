@@ -1,7 +1,7 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Github: Limited Codespace Sessions",
+    "slug": "github-limited-codespace-sessions",
+    "description": "A description of the limit to the number of Codespaces that can be open concurrently and how to manage Codespace sessions.",
     "authors": [
         "",
         ""
